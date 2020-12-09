@@ -21,7 +21,7 @@
     ]
   },
   "devDependencies": {
-    "dumi": "^1.0.9",
+    "dumi": "1.1.0-beta.14",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "yorkie": "^2.0.0"

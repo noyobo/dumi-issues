@@ -7,3 +7,5 @@ nav:
 # Getting Started
 
 Balabala...
+
+<code src="../src/Foo/index.jsx" />
